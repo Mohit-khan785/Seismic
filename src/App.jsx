@@ -503,12 +503,7 @@ const App = () => {
                         {generateEncryptedData()}
                       </span>
                     </p>
-                    <p>
-                      <span className="text-gray-400">ZK Proof:</span>{" "}
-                      <span className="font-mono" style={{ color: "#CDB296" }}>
-                        {generateEncryptedData()}
-                      </span>
-                    </p>
+
                     <p>
                       <span className="text-gray-400">Timestamp:</span>{" "}
                       <span className="font-mono" style={{ color: "#CDB296" }}>
